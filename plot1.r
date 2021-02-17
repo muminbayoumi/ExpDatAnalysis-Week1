@@ -1,4 +1,5 @@
-if(!exists('dat')){source('load_data.R')
+if(!exists('dat')){
+        source('load_data.R')
 } ## Avoiding redundancy - this should load the data  in 'dat' object
 
 
